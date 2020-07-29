@@ -1,0 +1,5 @@
+C:\Users\dr250167\Source\Repos\AzureCloudService1\Model\bin\Debug\Model.dll
+C:\Users\dr250167\Source\Repos\AzureCloudService1\Model\bin\Debug\Model.pdb
+C:\Users\dr250167\Source\Repos\AzureCloudService1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\dr250167\Source\Repos\AzureCloudService1\Model\obj\Debug\Model.dll
+C:\Users\dr250167\Source\Repos\AzureCloudService1\Model\obj\Debug\Model.pdb

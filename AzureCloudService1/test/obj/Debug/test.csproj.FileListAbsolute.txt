@@ -1,0 +1,13 @@
+C:\Users\dr250167\Source\Repos\AzureCloudService1\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\dr250167\Source\Repos\AzureCloudService1\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\dr250167\Source\Repos\AzureCloudService1\test\bin\Debug\test.exe.config
+C:\Users\dr250167\Source\Repos\AzureCloudService1\test\bin\Debug\test.exe
+C:\Users\dr250167\Source\Repos\AzureCloudService1\test\bin\Debug\test.pdb
+C:\Users\dr250167\Source\Repos\AzureCloudService1\test\bin\Debug\Model.dll
+C:\Users\dr250167\Source\Repos\AzureCloudService1\test\bin\Debug\Model.pdb
+C:\Users\dr250167\Source\Repos\AzureCloudService1\test\obj\Debug\test.csproj.CopyComplete
+C:\Users\dr250167\Source\Repos\AzureCloudService1\test\obj\Debug\test.exe
+C:\Users\dr250167\Source\Repos\AzureCloudService1\test\obj\Debug\test.pdb
+C:\Users\dr250167\Source\Repos\AzureCloudService1\test\bin\Debug\ImDao.dll
+C:\Users\dr250167\Source\Repos\AzureCloudService1\test\bin\Debug\Retalix.StoreServices.ClientLogin.dll
+C:\Users\dr250167\Source\Repos\AzureCloudService1\test\bin\Debug\ImDao.pdb

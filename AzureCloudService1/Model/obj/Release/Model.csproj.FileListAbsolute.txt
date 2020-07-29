@@ -1,0 +1,6 @@
+C:\Users\dr250167\Source\Repos\AzureCloudService1\Model\bin\Release\Model.dll
+C:\Users\dr250167\Source\Repos\AzureCloudService1\Model\bin\Release\Model.pdb
+C:\Users\dr250167\Source\Repos\AzureCloudService1\Model\obj\Release\Model.csprojAssemblyReference.cache
+C:\Users\dr250167\Source\Repos\AzureCloudService1\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+C:\Users\dr250167\Source\Repos\AzureCloudService1\Model\obj\Release\Model.dll
+C:\Users\dr250167\Source\Repos\AzureCloudService1\Model\obj\Release\Model.pdb

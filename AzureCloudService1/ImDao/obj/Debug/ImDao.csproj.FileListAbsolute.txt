@@ -1,0 +1,8 @@
+C:\Users\dr250167\Source\Repos\AzureCloudService1\ImDao\bin\Debug\ImDao.dll
+C:\Users\dr250167\Source\Repos\AzureCloudService1\ImDao\bin\Debug\ImDao.pdb
+C:\Users\dr250167\Source\Repos\AzureCloudService1\ImDao\bin\Debug\Retalix.StoreServices.ClientLogin.dll
+C:\Users\dr250167\Source\Repos\AzureCloudService1\ImDao\obj\Debug\ImDao.csprojAssemblyReference.cache
+C:\Users\dr250167\Source\Repos\AzureCloudService1\ImDao\obj\Debug\ImDao.csproj.CoreCompileInputs.cache
+C:\Users\dr250167\Source\Repos\AzureCloudService1\ImDao\obj\Debug\ImDao.csproj.CopyComplete
+C:\Users\dr250167\Source\Repos\AzureCloudService1\ImDao\obj\Debug\ImDao.dll
+C:\Users\dr250167\Source\Repos\AzureCloudService1\ImDao\obj\Debug\ImDao.pdb
